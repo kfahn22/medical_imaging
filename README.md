@@ -1,3 +1,2 @@
-# Synthetic Data Creation
+# Synthetic Data Creation - Medical Images
 
-Just a place to put my sample notebook
